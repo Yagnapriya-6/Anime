@@ -1,2 +1,0 @@
-# Anime
-My Anime Website
